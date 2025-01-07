@@ -30,7 +30,7 @@ const PriceOption = ({option}) => {
                 </ul>
             </div>
             <div className="flex justify-center mt-6 mb-2">
-                <button className="btn btn-accent hover:bg-green-500">Purchase</button>
+                <button className="btn btn-accent hover:bg-green-500 text-xl">Purchase</button>
             </div>
         </div>
     );
